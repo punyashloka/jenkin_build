@@ -11,7 +11,7 @@ public class JenkinsApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		int a =0;
+		
 	}
 
 }
